@@ -14,3 +14,9 @@ body {
 h1 {
   text-align: center;
 }
+.card-placeholder {
+	background: #34495e;
+}
+ul {
+  min-height: 100px;
+}
